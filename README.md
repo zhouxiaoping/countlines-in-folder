@@ -2,6 +2,9 @@
 ### description
 count all files lineCount in a folder or file
 
+### supported file type
+js ts jsx tsx css scss
+
 ### usage
 ```js
 node node_modules/countlines-in-folder/index.js targetFolder
